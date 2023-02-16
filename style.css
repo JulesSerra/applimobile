@@ -1,0 +1,8 @@
+.lineaire-simple {
+    background: linear-gradient(rgb(49, 121, 216), rgb(238, 233, 233));
+  }
+  
+  div {
+    width: 120px;
+    height: 120px;
+  }
